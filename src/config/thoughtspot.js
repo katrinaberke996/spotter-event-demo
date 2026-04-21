@@ -40,4 +40,5 @@ authStatus.on(AuthStatus.FAILURE, (reason) => {
   console.error('ThoughtSpot auth failed:', reason);
 });
 
-export default {};
+const config = {};
+export default config;
