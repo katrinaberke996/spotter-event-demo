@@ -227,32 +227,7 @@ export default function App() {
         </div>
       </div>
 
-      <div className="event-strip">
-        <div className="strip-item">
-          <span className="strip-value">3,500+</span>
-          <span className="strip-label">Delegates</span>
-        </div>
-        <div className="strip-sep" />
-        <div className="strip-item">
-          <span className="strip-value">300+</span>
-          <span className="strip-label">Speakers</span>
-        </div>
-        <div className="strip-sep" />
-        <div className="strip-item">
-          <span className="strip-value">15</span>
-          <span className="strip-label">Stages</span>
-        </div>
-        <div className="strip-sep" />
-        <div className="strip-item">
-          <span className="strip-value">3 Days</span>
-          <span className="strip-label">6–8 May 2026</span>
-        </div>
-        <div className="strip-sep" />
-        <div className="strip-item">
-          <span className="strip-value">100+</span>
-          <span className="strip-label">Exhibitors</span>
-        </div>
-      </div>
+
 
       <footer className="footer">
         Powered by <a href="https://www.thoughtspot.com/product/agents" target="_blank" rel="noopener noreferrer">ThoughtSpot Spotter</a>
