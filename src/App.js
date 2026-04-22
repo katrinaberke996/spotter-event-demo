@@ -230,10 +230,8 @@ export default function App() {
 
 
       <footer className="footer">
-        Powered by <a href="https://www.thoughtspot.com/product/agents" target="_blank" rel="noopener noreferrer">ThoughtSpot Spotter</a>
-        &nbsp;·&nbsp;
-        <a href="https://datainnovationsummit.com/region/nordics/" target="_blank" rel="noopener noreferrer">Data Innovation Summit 2026</a>
-      </footer>
+  Powered by <a href="https://www.thoughtspot.com/product/agents" target="_blank" rel="noopener noreferrer">ThoughtSpot Spotter</a>
+</footer>
     </div>
   );
 }
